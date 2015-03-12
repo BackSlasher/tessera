@@ -28,6 +28,7 @@ built with as many "off-the-shelf" components as possible.
     included here is MIT licensed).
   * [bootstrap-growl](https://github.com/mouse0270/bootstrap-growl)
 * [jQuery](http://jquery.com/)
+* [jquery.event.drag/drop](https://github.com/GerHobbelt/jquery.threedubmedia)
 * [d3](http://d3js.org). d3 is used for value formatting in text and
   for stacked graph layout.
 * [flot](http://www.flotcharts.org/) is used for interactive chart
