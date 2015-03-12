@@ -38,6 +38,7 @@ built with as many "off-the-shelf" components as possible.
   * [flot-barnumbers-enhanced](https://github.com/jasonroman/flot-barnumbers-enhanced)
   * [flot-d3-stack](https://github.com/aalpern/flot-d3-stack/)
   * [flot-downsample](https://github.com/sveinn-steinarsson/flot-downsample/)
+  * [flot.custom-canvas-legend](https://github.com/USGS-CIDA/jquery.flot.custom-canvas-legend)
 * [DataTables](http://datatables.net/)
 * [moment.js](http://momentjs.com/) for time parsing & formatting.
   * [moment-timezone.js](http://momentjs.com/timezone/)

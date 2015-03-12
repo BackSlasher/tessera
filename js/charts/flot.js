@@ -22,6 +22,7 @@
     function get_default_options() {
       var theme_colors = ds.charts.util.get_colors()
       var default_options = {
+        canvas: true,
         colors: ds.charts.util.get_palette(),
         downsample: false,
         series: {
@@ -244,6 +245,7 @@
       }
       try {
         context.plot = $.plot($(e), data, options)
+        item.plot = context.plot
       } catch (ex) {
         log.error('Error rendering item ' + item.item_id
                  + ': ' + ex.message)
