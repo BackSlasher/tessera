@@ -404,20 +404,6 @@ table.ds-property-sheet td {
     border-width: 3px;
 }
 
-.ds-drag-handle {
-    display: none;
-    margin-top: 8px;
-    margin-right: .5em;
-    color: rgba(75,75,75,0.25);
-}
-
-.ds-resize-handle {
-    display: none;
-    margin-bottom: .5em;
-    margin-right: .5em;
-    color: rgba(75,75,75,0.25);
-}
-
 /* Flot legends */
 
 .ds-legend-cell {
