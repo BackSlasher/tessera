@@ -96,6 +96,7 @@ module.exports = function(grunt) {
           'js/action.js',
           'js/transform.js',
           'js/app.js',
+          'js/app/dragdrop.js',
           'js/app/manager.js',
           'js/app/helpers.js',
           'tessera/static/templates.js',

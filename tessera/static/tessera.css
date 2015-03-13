@@ -404,6 +404,24 @@ table.ds-property-sheet td {
     border-width: 3px;
 }
 
+/*
+ * Drag & Drop
+ */
+
+.ds-drag-proxy {
+  position: absolute;
+  display: block;
+  padding: 4px;
+  border-radius: 4px;
+  opacity: 0.75;
+  background-color: lightgray;
+  border: 1px solid gray;
+}
+
+.ds-drop-active {
+    background-color: lightblue;
+}
+
 /* Flot legends */
 
 .ds-legend-cell {
