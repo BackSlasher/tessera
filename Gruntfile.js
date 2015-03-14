@@ -96,7 +96,6 @@ module.exports = function(grunt) {
           'js/core/action.js',
           'js/dashboard/transform.js',
           'js/app/app.js',
-          'js/app/dragdrop.js',
           'js/app/manager.js',
           'js/app/helpers.js',
           'js/app/keybindings.js',
@@ -113,6 +112,7 @@ module.exports = function(grunt) {
           'js/dashboard/models/**/*.js',
           'js/extensions/**/*.js',
           'js/edit/edit-mode.js',
+          'js/edit/dragdrop.js',
           'js/app/handlers/*.js'
         ],
         dest: 'tessera/static/app.js'
